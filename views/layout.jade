@@ -1,0 +1,15 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/style.css')
+
+    body
+        header
+            h1= title
+            h2= subtitle
+            nav
+                p Maps of great <a href="coffee" title="Coffee Map">coffee</a> and <a href="pizza" title="Pizza Map">pizza</a> shops in Trujillo - Perú.
+        #map_canvas
+        script(src='https://maps.googleapis.com/maps/api/js?&sensor=false')
+        block content

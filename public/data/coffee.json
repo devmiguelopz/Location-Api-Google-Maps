@@ -1,0 +1,11 @@
+[
+	{
+		"shopname": "Cafetería Asturias",
+		"location":{
+			"type": "Point",
+			"coordinates": [-8.117629, -79.039436]
+		},
+		"details": "Av. Juan Pablo II 673, Trujillo 13008",
+		"website": "https://www.facebook.com/pages/Cafe-Asturias/210456428989360"
+	}
+]

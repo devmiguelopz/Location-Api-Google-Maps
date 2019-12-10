@@ -1,0 +1,11 @@
+[
+	{
+		"shopname": "Pizzeria Trattoria Piamonte",
+		"location":{
+			"type": "Point",
+			"coordinates": [-8.120465, -79.039093]
+		},
+		"details": "San Pablo, Av. Larco 331, Trujillo 13008",
+		"website": "https://www.facebook.com/piamonte.pastas/"
+	}
+]

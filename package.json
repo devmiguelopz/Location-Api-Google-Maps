@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-googlemaps",
+  "version": "1.0.0",
+  "description": "Node.js - GoogleMap",
+  "main": "index.js",
+  "author": "devmiguelopz",
+  "license": "ISC",
+  "dependencies": {
+    "express": ">=4.13",
+    "jade": "1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
