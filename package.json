@@ -6,7 +6,7 @@
   "author": "devmiguelopz",
   "license": "ISC",
   "dependencies": {
-    "express": ">=4.13",
+    "express": ">=4.18",
     "jade": "1.11.0"
   },
   "devDependencies": {
